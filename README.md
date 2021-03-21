@@ -1,3 +1,3 @@
 # PyBot
 
-Projeto de Bot de Python em desenvolvimento.
+Projeto de Bot de Python em desenvolvimento...
